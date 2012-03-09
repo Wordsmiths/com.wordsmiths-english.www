@@ -1,9 +1,7 @@
 Wordsmiths website based on nanoc + HTML5 Boilerplate Skeleton Project
 ===
 
-See the [demo output here](http://jingoro.github.com/nanoc-html5boilerplate/).
-
-This is a nanoc skeleton project that incorporates the following to get you started right:
+wordsmith website based on nanoc
 
 - [nanoc v3.2.4](http://nanoc.stoneship.org/)
 - [HTML5 Boilerplate v2.0](http://html5boilerplate.com/)
@@ -18,7 +16,3 @@ Gems used in this skeleton project include:
 
 Enjoy!
 
-# Todo
-
-- Cache-busting for css/js
-- Option to turn on/off css/js minification
