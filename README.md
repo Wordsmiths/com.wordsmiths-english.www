@@ -1,5 +1,5 @@
-nanoc + HTML5 Boilerplate Skeleton Project
-==========================================
+Wordsmiths website based on nanoc + HTML5 Boilerplate Skeleton Project
+===
 
 See the [demo output here](http://jingoro.github.com/nanoc-html5boilerplate/).
 
