@@ -2,7 +2,7 @@ Wordsmiths website based on nanoc + HTML5 Boilerplate Skeleton Project
 ===
 
 wordsmith website based on nanoc
-
+- [nanoc-html5boilerplate](https://github.com/jingoro/nanoc-html5boilerplate)
 - [nanoc v3.2.4](http://nanoc.stoneship.org/)
 - [HTML5 Boilerplate v2.0](http://html5boilerplate.com/)
 - [jQuery v1.7.1](http://jquery.com/)
